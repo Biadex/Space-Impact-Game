@@ -1,0 +1,14 @@
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/MyTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/MyTutorial.AssemblyInfoInputs.cache
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/MyTutorial.AssemblyInfo.cs
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/MyTutorial.csproj.CoreCompileInputs.cache
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/bin/Debug/net7.0/MyTutorial
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/bin/Debug/net7.0/MyTutorial.deps.json
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/bin/Debug/net7.0/MyTutorial.runtimeconfig.json
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/bin/Debug/net7.0/MyTutorial.dll
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/bin/Debug/net7.0/MyTutorial.pdb
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/MyTutorial.dll
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/refint/MyTutorial.dll
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/MyTutorial.pdb
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/MyTutorial.genruntimeconfig.cache
+/Users/biadekazeem/Downloads/SIT771/Respirotary/MyTutorial/obj/Debug/net7.0/ref/MyTutorial.dll
